@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+* {
+    font-family: "Inter", sans-serif;
+}
+
+.color-blue {
+    color: #00FFFF;
+}
+
+.header-desc-left {
+    width: 60%;
+}
+
+.header-desc-right {
+    width: 40%;
+}
+
+.desc-right-img {
+    width: 300px;
+    height: 430px;
+    margin-left: auto;
+}
+
+.profile-links>div>img:hover {
+    cursor: pointer;
+}
+
+.slider {
+    width: 50%;
+}
+
+.description {
+    width: 50%;
+}
+
+.buttons {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.expertise-container {
+    display: flex;
+    gap: 30px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.outer-box {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer {
+    background-color: rgb(15, 14, 14);
+    color: antiquewhite;
+}
+
+.footer-img>div>img:hover {
+    cursor: pointer;
+}

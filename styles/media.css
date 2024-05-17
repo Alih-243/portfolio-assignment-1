@@ -1,0 +1,30 @@
+@media screen and (max-width: 576px) {
+
+    .header-desc-left {
+        width: 100%;
+    }
+
+    .header-desc-right {
+        width: 100%;
+    }
+
+    .desc-right-img {
+        width: 100%;
+    }
+
+    .slider {
+        width: 100%;
+    }
+
+    .description {
+        width: 100%;
+    }
+
+    .expertise-container {
+        flex-direction: column;
+    }
+
+    .outer-box {
+        width: 100%;
+    }
+}
